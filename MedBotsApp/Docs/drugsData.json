@@ -1,0 +1,79 @@
+[{
+    "_id": {
+        "$oid": "56314b2ee4b07f34b0915aae"
+    },
+    "id": "5d0810d2-9aa0-4850-ae6b-96a8b53bf2fe",
+    "code": "58476-3",
+    "title": "VP-Vite Rx",
+    "representedOrganization": "",
+    "indications": "VP-Vite Rx is indicated for the supplemental requirements of persons with nutritional deficiencies or those who are in need of nutritional supplementation.",
+    "contradictions": "This product is contraindicated in persons with a known hypersensitivity to any of the ingredients",
+    "healthClaim": "",
+    "precautions": "High levels of folic acid may, especially in older adults, hide signs of vitamin B-12 deficiency (such as pernicious anemia, a condition that can cause nerve damage)",
+    "interactions": "Pyridoxine hydrochloride should not be given to patients receiving the drug levodopa, because the action of levodopa is antagonized by pyridoxine hydrochloride.",
+    "sideEffects": "Allergic sensitization has been reported following oral administration of folic acid. Paresthesia, somnolence, nausea and headaches have been reported with pyridoxine hydrochloride. Mild transient diarrhea, polycythemia vera, itching, transitory exanthema and the feeling of swelling of the entire body have been associated with cyanocobalamin."
+},
+{
+    "_id": {
+        "$oid": "5631522de4b07f34b0915b8a"
+    },
+    "id": "e08ab4e5-49e9-4720-915b-b30609a16bd2",
+    "code": "58475-5",
+    "title": "L-Methyl-MC Tablets",
+    "representedOrganization": "",
+    "indications": "distinct nutritional requirements of individuals under medical supervision for hyperhomocysteinemia; with particular emphasis for individuals diagnosed with or at risk for mild to moderate: cognitive impairment",
+    "contraindications": "",
+    "precautions": "Folates, when administered as a single agent in doses above 0.1mg daily, may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations remain progressive.",
+    "sideEffects": "Paresthesia, somnolence, nausea and headaches have been reported with pyridoxine. Mild transient diarrhea, polycythemia vera, itching, transitory exanthema and the feeling of swelling of the entire body has been associated with cyanocobalamin",
+    "interactions": "High dose folic acid may result in decreased serum levels for pyrimethamine and first-generation anticonvulsants (carbamazepine, fosphenytoin, phenytoin, phenobarbital, primidone, valproic acid, valproate). This may possibly reduce first generation anticonvulsants effectiveness and/or increasing the frequency of seizures in susceptible patients."
+},
+{
+    "_id": {
+        "$oid": "563173abe4b0ebff724241ce"
+    },
+    "id": "dca21a89-65f3-48c5-a4ff-417f6f8d5c46",
+    "code": "58476-3",
+    "title": "Virt-PN DHA PRENATAL",
+    "representedOrganization": "Virtus Pharmaceuticals",
+    "precautions": "High levels of folic acid may, especially in older adults, hide signs of Vitamin B-12 deficiency (such as pernicious anemia), a condition that can cause nerve damage.",
+    "sideEffects": "Ingestion of more than 3 grams per day of omega-3 fatty acids (ALA, EPA, and DHA) may have potential antithrombotic activities, or effects, and may increase bleeding times."
+},
+{
+    "_id": {
+        "$oid": "5631526de4b07f34b0915b98"
+    },
+    "id": "5f7d9dfb-6f99-4e7c-a082-8698defecd17",
+    "code": "58475-5",
+    "title": "L-METHYLFOLATE CALCIUM 7.5mg Tablets",
+    "representedOrganization": "Virtus Pharmaceuticals",
+    "indications": "ADJUNCTIVE USE IN MAJOR DEPRESSIVE DISORDER L-METHYLFOLATE CALCIUM Tablets is indicated for the distinct nutritional requirements of individuals who have suboptimal L-METHYLFOLATE CALCIUM Tablets levels in the cerebrospinal fluid",
+    "contraindications": "L-METHYLFOLATE CALCIUM Tablets is contraindicated in patients with known hypersensitivity",
+    "precautions": "A major depressive episode may be the initial presentation of bipolar disorder. It is generally believed, (although not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of a precipitation of a mixed/manic episode in patients at risk for bipolar disorder.",
+    "sideEffects": "Allergic reactions have been reported following the use of oral L-METHYLFOLATE CALCIUM Tablets",
+    "interactions": "Before using this product, tell your doctor or pharmacist of all the products you use. Keep a list of all your medications with you, and share the list with your doctor and pharmacist."
+},
+{
+    "_id": {
+        "$oid": "563178a7e4b0ebff72424226"
+    },
+    "id": "9cb7fecb-a611-468d-8917-b305949ae969",
+    "code": "60683-0",
+    "title": "GAMMAPLEX Immune Globulin Intravenous",
+    "representedOrganization": "Bio Products Laboratory Limited",
+    "precautions": "Hyperproteinemia, increased serum viscosity, and hyponatremia may occur in patients receiving IGIV therapy.",
+    "indications": "primary humoral immunodeficiency  (PI) in adults and pediatric patients two years of age and older.",
+    "interactions": "Transitory rise of the various passively transferred antibodies in the patient's blood after infusion of immunoglobulin may yield positive serological testing results, with the potential for misleading interpretation."
+},
+{
+    "_id": {
+        "$oid": "56317d58e4b0ebff7242426b"
+    },
+    "id": "ef92ae97-084f-43bb-b589-a24858fcc35c",
+    "code": "53404-0",
+    "title": "FLUVIRIN",
+    "representedOrganization": "Novartis Vaccines and Diagnostics Limited",
+    "contradictions": "History of severe allergic reactions (e.g., anaphylaxis) to egg proteins, or any component of FLUVIRIN. or life-threatening reactions to previous influenza vaccinations.",
+    "precautions": "If Guillain-Barré syndrome has occurred within 6 weeks of receipt of prior influenza vaccine, the decision to give FLUVIRIN should be based on careful consideration of the potential benefits and risks.",
+    "indications": "FLUVIRIN is an inactivated influenza virus vaccine indicated for immunization of persons 4 years of age and older against influenza virus disease caused by influenza virus.",
+    "interactions": "Do not mix with any other vaccine in the same syringe or vial."
+}]
